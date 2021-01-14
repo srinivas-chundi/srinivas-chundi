@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C, C++ and Go
-- 🌱 I’m currently learning Rust
+- 🔭 Working on C, C++ and Go
+- 🌱 Learning Rust
 
 <!--
 **srinivas-chundi/srinivas-chundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
